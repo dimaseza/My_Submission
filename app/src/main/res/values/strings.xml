@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Submission</string>
+
+    <string name="klub_name">Nama Klub</string>
+    <string name="detail_klub">Detail</string>
+    <string name="my_name">Dimas Imameza</string>
+    <string name="my_email">dimasandre18@gmail.com</string>
+
+    <string name="desc">Arsenal didirikan di daerah Woolwich, bagian tenggara kota London pada 1886 dengan nama Dial Square, lalu dengan cepat berganti nama menjadi Royal Arsenal.</string>
+</resources>
